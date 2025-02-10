@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Raghu Rama Raju!  
 
 🚀 **Java Full Stack & UI/UX Trainee. 
-🎓 **CSE Student at GIET College | AI Enthusiast | Tech Explorer**  
+🎓 **CSE Student at GIET College | Tech Explorer**  
 
 ---
 
@@ -10,7 +10,7 @@
 I'm a passionate **Java Full Stack Developer** and **UI/UX Trainee** at Tech Wing. With expertise in both frontend and backend technologies.  
 
 💼 **Team Lead - Tech Wing Team 14**  
-📌 **Certified Java Developer | Web Development Enthusiast**  
+📌 **Java Certified  | Web Development Enthusiast**  
 
 ---
 
@@ -50,7 +50,7 @@ I'm a passionate **Java Full Stack Developer** and **UI/UX Trainee** at Tech Win
 ### 🔹 **Backend & Full Stack Projects**  
 - 🔄 **JSP & Servlets Web Application** *(CRUD operations, Data Fetching & Retrieval)*  
 - 👨‍💼 **Employee Management System** *(Spring Boot, REST API, CRUD Operations)*  
-- 🛒 **Order Page with Hibernate & Spring** *(Data stored in DB, Backend using Spring & Eclipse)*  
+- 🛒 **Order Page with Hibernate & Spring** *(Data stored in DB, Backend using Spring)*  
 
 ---
 
@@ -64,17 +64,14 @@ I'm a passionate **Java Full Stack Developer** and **UI/UX Trainee** at Tech Win
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghuRamaRaju7e&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuRamaRaju7&show_icons=true&theme=dark)  
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/raghu-rama-raju-indukuri-14b1ab2b2)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghu-rama-raju-indukuri-14b1ab2b2)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/RaghuRamaRaju7)  
 
----
-
-This profile README is now **more structured, professional, and visually appealing** with icons and badges. 🚀 Let me know if you need any modifications!
