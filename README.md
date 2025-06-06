@@ -72,6 +72,6 @@ I'm a passionate **Java Full Stack Developer** and **UI/UX Trainee** at Tech Win
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghu-rama-raju-indukuri-14b1ab2b2)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://portfolio-raghu7.web.app/home)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/RaghuRamaRaju7)  
 
