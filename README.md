@@ -1,16 +1,17 @@
-# 👋 Hello, I'm Raghu Rama Raju!  
+# 👋 Hello, I'm **Raghu Rama Raju Indukuri!**  
 
-🚀 **Java Full Stack & UI/UX Trainee. 
-🎓 **CSE Student at GIET College | Tech Explorer**  
+🚀 **Final-Year CSE Student | Java Full Stack Developer | Tech Enthusiast**  
+🎓 **Godavari Institute of Engineering & Technology (GIET), Rajahmundry**  
 
 ---
 
 ## 💡 About Me  
 
-I'm a passionate **Java Full Stack Developer** and **UI/UX Trainee** at Tech Wing. With expertise in both frontend and backend technologies.  
+I’m a passionate **Computer Science student** with strong skills in **Java, Web Development (HTML, CSS, JS)**, and **MySQL**.  
+I love turning ideas into practical projects and continuously improving my problem-solving and teamwork skills.  
 
-💼 **Team Lead - Tech Wing Team 14**  
-📌 **Java Certified  | Web Development Enthusiast**  
+💼 **AI Intern @ AIMERS** – Developed real-world AI projects using APIs, YOLO, and Visual Question Answering systems.  
+📚 Always exploring **new technologies** and **building full-stack web applications**.  
 
 ---
 
@@ -19,59 +20,66 @@ I'm a passionate **Java Full Stack Developer** and **UI/UX Trainee** at Tech Win
 ### 🌐 **Frontend Development**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### ⚙️ **Backend Development**  
+### ⚙️ **Backend & Database**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![JSP](https://img.shields.io/badge/JSP-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 
-### 🤖 **AI & ML Projects**  
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
-- Object Detection  
-- Image Classification  
-- Comic Generation  
-- Telegram Bot Development  
+### 🧠 **AI & Tools**  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ai&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-## 🏆 Projects  
+## 💻 Projects  
 
-### 🔹 **Frontend Projects**  
-- 🌦️ **Weather Tracker** *(HTML, CSS)*  
-- ☕ **Coffee Website** *(HTML, CSS)*  
-- 🎥 **Movie Hub** *(Team Project - HTML, CSS)*  
-- 🖥️ **Portfolio Website** *(Built with Angular)*  
-
-### 🔹 **Backend & Full Stack Projects**  
-- 🔄 **JSP & Servlets Web Application** *(CRUD operations, Data Fetching & Retrieval)*  
-- 👨‍💼 **Employee Management System** *(Spring Boot, REST API, CRUD Operations)*  
-- 🛒 **Order Page with Hibernate & Spring** *(Data stored in DB, Backend using Spring)*  
+### 🚕 **Cab Booking System (Core Java + HTML/CSS/JS)**  
+🔹 Implemented using **OOPs, Collections, and Exception Handling**.  
+🔹 Integrated basic frontend for user interaction and fare calculation.  
+🔹 Focused on backend logic and booking flow without frameworks.  
+📎 [View on GitHub](https://github.com/RaghuRamaRaju7/Cab-Booking-System)  
 
 ---
 
-## 🎓 Certifications & Internships  
+### 🌦️ **Weather Tracker (HTML, CSS, JavaScript)**  
+🔹 Fetches real-time weather data using the **OpenWeatherMap API**.  
+🔹 Displays temperature, humidity, and wind speed dynamically.  
+🔹 Designed with a **responsive and user-friendly interface**.  
+📎 [View on GitHub](https://github.com/RaghuRamaRaju7/weatherTracker-solo-project-)  
 
-🎖️ **Java Certification** – IT Specialist  
-🎖️ **AI Internship** – AIMERS  
-  - Object Detection, Image Classification, Comic Generation, Telegram Bot Development  
+---
+
+### ☕ **Coffee Website using JDBC (Java + MySQL)**  
+🔹 Console-based CRUD application for Coffee Shop Management.  
+🔹 Implements **user registration, login, and product management**.  
+🔹 Uses **MySQL database** for secure data storage.  
+📎 [View on GitHub](https://github.com/RaghuRamaRaju7/Coffee-Website-JDBC)  
+
+---
+
+## 🎓 Certifications  
+
+🏅 **Java Programming – IT Specialist**  
+🏅 **HTML & CSS – IT Specialist**  
+🏅 **AI Internship Completion – AIMERS**  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghuRamaRaju7e&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghuRamaRaju7&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuRamaRaju7&show_icons=true&theme=dark)  
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghu-rama-raju-indukuri-14b1ab2b2)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://portfolio-raghu7.web.app/home)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/RaghuRamaRaju7)  
+📍 **Rajahmundry, Andhra Pradesh**  
+📧 [iraghuramaraju7@gmail.com](mailto:iraghuramaraju7@gmail.com)  
+📞 [+91 96037 43780](tel:+919603743780)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raghu-rama-raju-indukuri-14b1ab2b2)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/RaghuRamaRaju7)  
