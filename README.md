@@ -10,9 +10,6 @@
 I’m a passionate **Computer Science student** with strong skills in **Java, Web Development (HTML, CSS, JS)**, and **MySQL**.  
 I love turning ideas into practical projects and continuously improving my problem-solving and teamwork skills.  
 
-💼 **AI Intern @ AIMERS** – Developed real-world AI projects using APIs, YOLO, and Visual Question Answering systems.  
-📚 Always exploring **new technologies** and **building full-stack web applications**.  
-
 ---
 
 ## 🛠 Tech Stack  
