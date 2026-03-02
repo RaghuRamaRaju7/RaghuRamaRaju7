@@ -80,12 +80,6 @@ I enjoy transforming ideas into real-world projects, focusing on clean code, fun
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghuRamaRaju7&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuRamaRaju7&show_icons=true&theme=dark)  
-
----
-
 ## 📫 Connect with Me  
 📍 **Rajahmundry, Andhra Pradesh**  
 📧 [iraghuramaraju7@gmail.com](mailto:iraghuramaraju7@gmail.com)  
